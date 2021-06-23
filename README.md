@@ -7,8 +7,8 @@
 
 ## 💻 Work Profile :
 
-* **Senior PHP Developer @ TealOrca Software Solutions Pvt Ltd**
-* **Ex Software Engineer @ Xplowiz Solutions (India) Pvt. Ltd**
+* **Senior PHP Developer @ [TealOrca Software Solutions Pvt Ltd](https://tealorca.com/)**
+* **Ex Software Engineer @ [Xplowiz Solutions (India) Private Limited](http://xplowiz.com/)**
 
 ## 🤡 Personal Facts :
 
@@ -17,12 +17,20 @@
 - 🤝 I’m looking to collaborate on **any open source projects**
 - 💬 Ask me about :
      * **How is my life going? 😉**
-     * **PHP || Laravel || Joomla || Wordpress**
-     * **Web Development || Plugin/Extension Development || Mobile App Developmentt**
+     * **PHP || Laravel || Joomla || WordPress**
+     * **Web Development || Plug-in / Extension Development || Mobile App Developmentt**
 - 📫 How to reach me:
-     * **1. [LinkedIn](https://www.linkedin.com/in/itsdanielfelix/)**
-     * **2. [Instagram](https://www.instagram.com/itsdanielfelix/)**
-     * **3. [Facebook](https://www.facebook.com/itsdanielfelix/)**
-     * **4. [Gmail](mailto:danielfelix1995@gmail.com)**
+     * **1. [Personal Website](https://danielfelix.in/)**
+     * **2. [LinkedIn](https://www.linkedin.com/in/itsdanielfelix/)**
+     * **3. [Instagram](https://www.instagram.com/itsdanielfelix/)**
+     * **4. [Facebook](https://www.facebook.com/itsdanielfelix/)**
+     * **5. [Gmail](mailto:danielfelix1995@gmail.com)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsdanielfelix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+## 📈 Github Statistics 
+<a href="https://github.com/itsdanielfelix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdanielfelix&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/itsdanielfelix">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdanielfelix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="Daniel's github stats"/>
+</a>
