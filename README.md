@@ -8,8 +8,8 @@
 - 🤝 I’m looking to collaborate on **any open source projects**
 - 💬 Ask me about :
      * **How is my life going? 😉**
-     * **Python || Java || C/C++**
-     * **Mobile App Development  || Front-End Development || Web Development**
+     * **PHP || Laravel || Joomla || Wordpress**
+     * **Web Development || Plugin/Extension Development || Mobile App Developmentt **
 - 📫 How to reach me:
      * **1. [LinkedIn](https://www.linkedin.com/in/itsdanielfelix/)**
      * **2. [Instagram](https://www.instagram.com/itsdanielfelix/)**
