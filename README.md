@@ -7,7 +7,6 @@
 
 ## 💻 Work Profile :
 
-* **Senior PHP Developer @ [TealOrca Software Solutions Pvt Ltd](https://tealorca.com/)**
 * **Ex Software Engineer @ [Xplowiz Solutions (India) Private Limited](http://xplowiz.com/)**
 
 ## 🤡 Personal Facts :
