@@ -1,13 +1,11 @@
 # Hey !! I am Daniel Felix 🤵
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Felix-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsdanielfelix/)
-[![Instagram Badge](https://img.shields.io/badge/-Daniel%20Felix-orange?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/itsdanielfelix/)
-[![Facebook Badge](https://img.shields.io/badge/-Daniel%20Felix-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/itsdanielfelix/)
 [![Gmail Badge](https://img.shields.io/badge/-danielfelix1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danielfelix1995@gmail.com)
 
 ## 💻 Work Profile :
 
-* **Ex Software Engineer @ [Xplowiz Solutions (India) Private Limited](http://xplowiz.com/)**
+* **Senior Software Engineer @ [Commusoft Pvt Ltd](https://www.commusoft.com/)**
 
 ## 🤡 Personal Facts :
 
@@ -17,13 +15,11 @@
 - 💬 Ask me about :
      * **How is my life going? 😉**
      * **PHP || Laravel || Joomla || WordPress**
-     * **Web Development || Plug-in / Extension Development || Mobile App Developmentt**
+     * **Web Development || Plug-in / Extension Development || Mobile App Development**
 - 📫 How to reach me:
      * **1. [Personal Website](https://danielfelix.in/)**
      * **2. [LinkedIn](https://www.linkedin.com/in/itsdanielfelix/)**
-     * **3. [Instagram](https://www.instagram.com/itsdanielfelix/)**
-     * **4. [Facebook](https://www.facebook.com/itsdanielfelix/)**
-     * **5. [Gmail](mailto:danielfelix1995@gmail.com)**
+     * **3. [Gmail](mailto:danielfelix1995@gmail.com)**
 
 ## 📈 Github Statistics 
 <a href="https://github.com/itsdanielfelix">
